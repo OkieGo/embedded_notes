@@ -6,6 +6,7 @@
       "command": "D:\\ProgramFiles\\mingw64\\bin\\gcc.exe",
       "args": [
         "-fdiagnostics-color=always",
+        "-Wall",
         "-g",
         "${file}",
         "-o",
