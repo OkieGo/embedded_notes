@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main()
 {
-  int a = -6;
-  printf("%d, %u",a,a);
+  char c = 129;
+  printf("%c", c);
 }

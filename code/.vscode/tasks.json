@@ -7,6 +7,8 @@
       "args": [
         "-fdiagnostics-color=always",
         "-Wall",
+        "-Wconversion",
+        "-Wextra",
         "-g",
         "${file}",
         "-o",
